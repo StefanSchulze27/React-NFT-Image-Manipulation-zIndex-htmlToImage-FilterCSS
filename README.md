@@ -6,17 +6,17 @@ Using this project,You can make various Image as your mind for your NFT
 
 <img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Black%20and%20White.png"  width="200" height="200" />
 
-![Cold Color](https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Cold%20color.png)
+<img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Cold%20color.png"  width="200" height="200" />
 
-![Green Tint](https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Green%20Tint.png)
+<img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Green%20Tint.png"  width="200" height="200" />
 
-![Magenta Tint](https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Magenta%20Tint.png)
+<img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Magenta%20Tint.png"  width="200" height="200" />
 
-![Old Paper](https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Old%20Paper%20Overlay.png)
+<img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Old%20Paper%20Overlay.png"  width="200" height="200" />
 
-![Sepia](https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Sepia.png)
+<img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Sepia.png"  width="200" height="200" />
 
-![Warm Color](https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Warm%20Color.png)
+<img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Warm%20Color.png"  width="200" height="200" />
 
 This project is built with React.js.
 
