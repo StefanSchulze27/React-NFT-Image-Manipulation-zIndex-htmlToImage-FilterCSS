@@ -4,6 +4,8 @@
 
 Using this project,You can make various Image as your mind for your NFT
 
+<div style="display : flex">
+
 <img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Black%20and%20White.png"  width="200" height="200" />
 
 <img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Cold%20color.png"  width="200" height="200" />
@@ -17,6 +19,8 @@ Using this project,You can make various Image as your mind for your NFT
 <img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Sepia.png"  width="200" height="200" />
 
 <img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Warm%20Color.png"  width="200" height="200" />
+
+</div>
 
 This project is built with React.js.
 
