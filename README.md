@@ -30,7 +30,33 @@ For Image manipulation, Several image layers are combined and filter css effects
 
 ### Original Image pieces
 
+<div style="display : flex">
+<img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/src/assets/NFT/1/1.png" width="200" height="200">
 
+<img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/src/assets/NFT/1/2.png" width="200" height="200">
+
+<img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/src/assets/NFT/1/3.png" width="200" height="200">
+
+<img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/src/assets/NFT/1/4.png" width="200" height="200">
+
+<img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/src/assets/NFT/1/5.png" width="200" height="200">
+
+<img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/src/assets/NFT/1/6.png" width="200" height="200">
+
+<img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/src/assets/NFT/1/7.png" width="200" height="200">
+
+
+</div>
+
+### Available Mouths
+
+<div style="display : flex">
+
+<img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/src/assets/mouth/1.png" width="200" height = "200">
+<img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/src/assets/mouth/2.png" width="200" height = "200">
+<img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/src/assets/mouth/3.png" width="200" height = "200">
+<img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/src/assets/mouth/4.png" width="200" height = "200">
+</div>
 
 To save changed images as file, This project use htmlToImage node module.
 
