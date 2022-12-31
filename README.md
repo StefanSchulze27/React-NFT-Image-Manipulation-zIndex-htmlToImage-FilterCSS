@@ -4,9 +4,29 @@
 
 Using this project,You can make various Image as your mind for your NFT
 
+![Black and White](https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Black%20and%20White.png)
+
+![Cold Color](https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Cold%20color.png)
+
+![Green Tint](https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Green%20Tint.png)
+
+![Magenta Tint](https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Magenta%20Tint.png)
+
+![Old Paper](https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Old%20Paper%20Overlay.png)
+
+![Sepia](https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Sepia.png)
+
+![Warm Color](https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Warm%20Color.png)
+
 This project is built with React.js.
 
 For Image manipulation, Several image layers are combined and filter css effects are used.
+
+## Combine images by z-index
+
+### Original Image pieces
+
+
 
 To save changed images as file, This project use htmlToImage node module.
 
