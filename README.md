@@ -4,7 +4,7 @@
 
 Using this project,You can make various Image as your mind for your NFT
 
-![Black and White](https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Black%20and%20White.png){height="36px" width="36px"}
+<img src="https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Black%20and%20White.png"  width="200" height="200" />
 
 ![Cold Color](https://github.com/DarkHorseCorder/React-NFT-Image-Manipulation-zIndex-htmlToImage-FilterCSS/blob/master/public/Cold%20color.png)
 
